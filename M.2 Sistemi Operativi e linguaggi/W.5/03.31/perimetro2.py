@@ -2,7 +2,7 @@ import math
 
 gioco = True
 while gioco:
-    print("Scegli la figura di cui calcolare il perimetro:\n A. Quadrato\n B. Cerchio\n C. Rettangolo\n Q. Chiudi il programma")
+    print("Scegli la figura di cui calcolare il perimetro:\n A. Quadrato\n B. Cerchio\n C. Rettangolo\n Q. Chiudi il programma\n")
     x = input ("Digita la tua selezione: ")
  
     if x == "A" or x == "a" :
