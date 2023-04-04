@@ -1,4 +1,4 @@
-#Funzione per creare una lista che conti i caratteri delle parola in un'altra lista
+# Funzione per creare una lista che conti i caratteri delle parola in un'altra lista
 
 def lista ():
     list_a = ['meteorite', 'gesso', 'dichiarare', 'quartiere', 'lucernario', 'propaganda', 'bermuda']
