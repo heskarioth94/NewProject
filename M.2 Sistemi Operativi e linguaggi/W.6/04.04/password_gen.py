@@ -19,7 +19,6 @@ def password_gen():
     scelta = input("Questo programma serve per generare password!\n>>> 1. per una password di 8 caratteri\n>>> 2. per una password di 20 caratteri\n>>> Q. Chiudi il programma\nEffettua una scelta:\n>>> ")
 
     if scelta == '1':
-        length_of_string = 8
         print("La password generata è: ")
         randomizer8()
 
