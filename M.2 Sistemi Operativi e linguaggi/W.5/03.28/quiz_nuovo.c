@@ -7,7 +7,7 @@ int main() {
     int punteggio = 0;
     char nome[50];
 
-    printf("Benvenuto al nel quiz di cultura generale!\n");
+    printf("Benvenuto nel quiz di cultura generale!\n");
     printf("Lo scopo del gioco e' di rispondere correttamente al maggior numero di domande possibile.\n");
 
     do {
